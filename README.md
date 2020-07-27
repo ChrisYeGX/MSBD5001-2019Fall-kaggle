@@ -7,5 +7,3 @@ Library required: sklearn(LabelEncoder, XGBClassifier), pandas,numpy,xgboost
 
 2.Running requirement: The generated csv do not have the id index. So You should manually add 'id' in the first column. Then 
 it can be run in the kaggle.
-
-3. Team name: chris Ye
